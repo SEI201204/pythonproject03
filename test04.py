@@ -9,7 +9,7 @@ width = float(input('ความกว้างของกล่อง (เม
 length = float(input('ความยาวของกล่อง (เมตร) : '))
 height = float(input('ความสูงของกล่อง (เมตร) : '))
 
-area = 2*(width*height+length*height)
+area = (width*2+height*2+length*2)
 
 paint = math.ceil(area/5)
 

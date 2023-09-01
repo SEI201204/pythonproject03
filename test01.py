@@ -1,1 +1,1 @@
-print(IoT)
+print('IoT')
